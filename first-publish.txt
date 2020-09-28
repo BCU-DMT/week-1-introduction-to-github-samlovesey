@@ -1,5 +1,5 @@
-Name:
-Student Id:
-email:
+Name: Sam Lovesey
+Student Id: 17115894
+email: Samuel.Lovesey@mail.bcu.ac.uk
 
-An interesting fact about my summer:
+An interesting fact about my summer: I celebrated my 21st Birthday
